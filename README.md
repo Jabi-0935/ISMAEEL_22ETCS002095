@@ -18,7 +18,9 @@ Clear Fields: Allows users to reset all input fields.
 
 
 **Giving the Input in GUI interface:**
+
 ![Screenshot 2024-07-10 102202](https://github.com/Jabi-0935/ISMAEEL_22ETCS002095/assets/114057128/072e4020-e4bd-4b2a-8409-fb1c5cba26cd)
 
 **Generated Resume**
+
 ![Screenshot 2024-07-10 102401](https://github.com/Jabi-0935/ISMAEEL_22ETCS002095/assets/114057128/552ccc08-6131-4cac-8a5e-be505bd2e473)
